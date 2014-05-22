@@ -11,7 +11,12 @@ Course Project : run_analysis.R
   1) Getting
   
      A. Check data file and download
-   
+     
+        - Check the original data file exists in the working directory
+        - If the original data file does not exist, download the file
+        
+    
+    
 
 
 
