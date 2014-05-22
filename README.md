@@ -9,6 +9,8 @@ Course Project : run_analysis.R
  2. Working
 
   1) Getting
+  
+     A. Check data file and download
    
 
 
