@@ -1,6 +1,6 @@
 
-# Getting-and-Cleaning-Data
-# Course Project : run_analysis.R
+Getting-and-Cleaning-Data
+Course Project : run_analysis.R
 
  Description of Working
 
