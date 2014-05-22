@@ -21,6 +21,17 @@ Course Project : run_analysis.R
         - If downloaded file does not exist, stop the program
         - If downloaded file exists, Uncompress the data file
     
+     C. Check uncompressed data file 
+        
+        - Check Uncompressed data files exist in the 'UCI HAR Dataset' folder
+        - If there are no files, stop the program
+        
+     D. Read data
+     
+        - Read activity labels
+        - Read feature labels
+        - Read the train data files and assign column names
+        - Read the test data files and assign column names
 
 
 
