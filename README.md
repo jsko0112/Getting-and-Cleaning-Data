@@ -15,7 +15,11 @@ Course Project : run_analysis.R
         - Check the original data file exists in the working directory
         - If the original data file does not exist, download the file
         
-    
+     B. Check downloaded data file and Uncompress the data file(original-dataset.zip)
+     
+        - Check the original data file was downloaded
+        - If downloaded file does not exist, stop the program
+        - If downloaded file exists, Uncompress the data file
     
 
 
