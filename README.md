@@ -33,6 +33,10 @@ Course Project : run_analysis.R
         - Read the train data files and assign column names
         - Read the test data files and assign column names
 
-
+   2) Cleaning
+   
+     A. Merges the training and the test sets to create one data set.
+     
+     B. Extracts only the measurements on the mean and standard deviation for each measurement.
 
 
