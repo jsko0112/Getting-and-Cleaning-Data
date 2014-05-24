@@ -1,7 +1,3 @@
-# Set to TRUE to attempt the download automatically
-# May not work on all platforms or in VM environments
-download.file.automatically <- TRUE
-
 # Variables
 data.file.url <- 'https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip'
 ori.data.file <- './original-dataset.zip'
